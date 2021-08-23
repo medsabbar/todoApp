@@ -1,0 +1,26 @@
+.todo_list {
+	text-align: center;
+	border-radius: 5px;
+	width: 80vw;
+}
+.delete {
+	cursor: pointer;
+	margin-left: 10px;
+	color: red;
+	border-radius: 2px;
+	padding: 2px;
+}
+.delete:hover {
+	background-color: red;
+	color: white;
+}
+.edit {
+	color: blue;
+	cursor: pointer;
+	border-radius: 2px;
+	padding: 2px;
+}
+.edit:hover {
+	background-color: blue;
+	color: white;
+}

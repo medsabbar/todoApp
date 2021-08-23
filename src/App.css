@@ -1,0 +1,8 @@
+.App {
+	text-align: center;
+}
+.todos {
+	display: grid;
+	align-items: center;
+	justify-content: space-between;
+}
